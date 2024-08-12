@@ -1,0 +1,17 @@
+# Preface {.unnumbered}
+
+This is a Quarto book. **Word shortcuts work in the Visual mode.**
+
+***Hellooo***
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
+
+### Helloo
+
+gdfal;jkfsdajlkfsda;jlkdjlk;df
+
+`This looks like code`

@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "a_quarto_book"
+  author: "Norah Jones"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: materia
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
