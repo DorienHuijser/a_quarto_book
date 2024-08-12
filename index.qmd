@@ -2,7 +2,8 @@
 
 This is a Quarto book. **Word shortcuts work in the Visual mode.**
 
-***Hellooo***
+I've used this book to show how Quarto works and Git and GitHub to my colleagues in Research Data Support. I will *soon* take this website offline again...
+
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
