@@ -1,9 +1,10 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "a_quarto_book"
-  author: "Norah Jones"
+  title: "a_quarto_book test test"
+  author: "Dorien Huijser"
   date: last-modified
   chapters:
     - index.qmd
